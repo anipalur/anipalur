@@ -75,6 +75,7 @@ const aboutMe = {
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anipalur&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=onedark&hide_border=false&order=2" height="150" alt="My most used languages."  />
+  <img width="5" />
   <img src="https://streak-stats.demolab.com?user=anipalur&locale=en&mode=weekly&theme=onedark&hide_border=false&border_radius=5&date_format=j M[ Y]&order=3" height="150" alt="My contribution streak."  />
 </div>
 
