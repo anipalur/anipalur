@@ -1,3 +1,7 @@
+<img src="./ap-github-header-image.png" alt="Github header image"  />
+
+<br/>
+
 ## 🧔 About Me
 
 ```js
