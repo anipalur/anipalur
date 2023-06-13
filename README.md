@@ -18,8 +18,9 @@ const aboutMe = {
   currentlyLearning: 'Advanced Git',
   hobbies: [
     'Playing the piano',
-    'Learning new things',
-    'Teaching',
+    'Space',
+    'Self-driving cars',
+    'Educating',
   ],
   personalMotto: 'Weaknesses indicate strengths and strengths indicate weaknesses.',
 };
