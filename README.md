@@ -22,7 +22,7 @@ const aboutMe = {
     'Self-driving cars',
     'Educating',
   ],
-  personalMotto: 'Weaknesses indicate strengths and strengths indicate weaknesses.',
+  personalMotto: 'Weaknesses indicate strengths and strengths indicate weaknesses',
 };
 ```
 
