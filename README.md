@@ -13,9 +13,9 @@ const aboutMe = {
     'Database management',
     'DevOps',
   ],
-  askMeAbout: 'Medicine and technology',
+  askMeAbout: 'Medicine and cyborgs',
   currentlyWorkingOn: 'Discord bot',
-  currentlyLearning: 'Advanced Git',
+  currentlyLearning: 'Maintaining a repo',
   hobbies: [
     'Playing the piano',
     'Space',
