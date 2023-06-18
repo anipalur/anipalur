@@ -84,4 +84,4 @@ const aboutMe = {
 
 ## 💬 Social Media
 
-Connect with me on Discord at **`AP#5141`**!
+Connect with me on Discord at **`anipalur`**!
