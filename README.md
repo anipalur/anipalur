@@ -17,6 +17,7 @@ const aboutMe = {
   currentlyWorkingOn: 'Discord bot',
   currentlyLearning: 'Maintaining a repo',
   hobbies: [
+    'Geopolitics',
     'Playing the piano',
     'Space',
     'Self-driving cars',
