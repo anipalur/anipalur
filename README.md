@@ -14,8 +14,8 @@ const aboutMe = {
     'DevOps',
   ],
   askMeAbout: 'Merging man and machine',
-  currentlyWorkingOn: 'Discord bot',
-  currentlyLearning: 'Maintaining a repo',
+  currentlyWorkingOn: 'A Discord bot',
+  currentlyLearningAbout: 'Maintaining a repo',
   hobbies: [
     'Geopolitics',
     'Playing the piano',
