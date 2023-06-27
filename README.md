@@ -13,7 +13,7 @@ const aboutMe = {
     'Database management',
     'DevOps',
   ],
-  askMeAbout: 'Medicine and cyborgs',
+  askMeAbout: 'Merging man and machine',
   currentlyWorkingOn: 'Discord bot',
   currentlyLearning: 'Maintaining a repo',
   hobbies: [
