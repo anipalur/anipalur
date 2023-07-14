@@ -1,0 +1,27 @@
+{
+  "name": "anipalur",
+  "version": "1.0.0",
+  "description": "Config files for my GitHub profile.",
+  "scripts": {
+    "lint": "npx markdownlint --fix \"**/*.md\" --ignore node_modules && echo Successfully linted all .md files!"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anipalur/anipalur.git"
+  },
+  "keywords": [
+    "github-profile",
+    "github-profile-readme",
+    "readme-profile"
+  ],
+  "author": "anipalur",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anipalur/anipalur/issues"
+  },
+  "homepage": "https://github.com/anipalur/anipalur#readme",
+  "devDependencies": {
+    "markdownlint": "^0.29.0",
+    "markdownlint-cli": "^0.35.0"
+  }
+}
