@@ -1,3 +1,5 @@
+<!-- markdownlint-disable first-line-heading -->
+
 <img src="./ap-github-header-image.png" alt="Github header image"  />
 
 ## 🧔 About Me
