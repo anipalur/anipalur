@@ -1,3 +1,5 @@
+<!-- markdownlint-disable no-duplicate-heading -->
+
 # Contributor Covenant Code of Conduct
 
 ## 🤝 Our Pledge
