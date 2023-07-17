@@ -113,4 +113,8 @@ const aboutMe = {
 
 ## 💬 Social Media
 
-Connect with me on Discord at **`anipalur`**!
+<div align="left">
+  <img src="https://cdn.simpleicons.org/discord/5865F2" height="20" align="center" /> <a href="https://discordapp.com/users/689680683186126865" title="View my Discord profile."><code>@anipalur</code></a>
+  <img width="5" />
+  <img src="https://cdn.simpleicons.org/youtube/FF0000" height="20" align="center" /> <a href="https://www.youtube.com/@anipalur" title="Visit my YouTube channel."><code>@anipalur</code></a>
+</div>
