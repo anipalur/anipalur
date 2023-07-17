@@ -73,18 +73,6 @@ const aboutMe = {
 
 ## 📊 My Stats
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anipalur&include_all_commits=true&show=reviews&show_icons=true&hide_rank=true&hide=contribs&theme=slateorange&border_color=444c56"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anipalur&include_all_commits=true&show=reviews&show_icons=true&hide_rank=true&hide=contribs&theme=swift&border_color=444c56"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anipalur&include_all_commits=true&show=reviews&show_icons=true&hide_rank=true&hide=contribs&theme=swift&border_color=444c56" />
-</picture>
-
 <div align="left">
   <picture>
     <source
