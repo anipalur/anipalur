@@ -80,10 +80,10 @@ const aboutMe = {
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=anipalur&include_all_commits=true&show=reviews&show_icons=true&hide_rank=true&hide=contribs&theme=swift&border_color=444c56"
+      srcset="https://github-readme-stats.vercel.app/api?username=anipalur&include_all_commits=true&show=reviews&show_icons=true&hide_rank=true&hide=contribs&theme=swift&border_color=d0d7de"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=anipalur&include_all_commits=true&show=reviews&show_icons=true&hide_rank=true&hide=contribs&theme=swift&border_color=444c56" height="150" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=anipalur&include_all_commits=true&show=reviews&show_icons=true&hide_rank=true&hide=contribs" height="150" alt="GitHub Stats"/>
   </picture>
   <img width="5" />
   <picture>
@@ -92,10 +92,10 @@ const aboutMe = {
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://streak-stats.demolab.com?user=anipalur&date_format=j%20M%5B%20Y%5D&mode=weekly&theme=swift&border=444c56"
+      srcset="https://streak-stats.demolab.com?user=anipalur&date_format=j%20M%5B%20Y%5D&mode=weekly&theme=swift&border=d0d7de"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://streak-stats.demolab.com?user=anipalur&date_format=j%20M%5B%20Y%5D&mode=weekly&theme=swift&border=444c56" height="150" alt="Contribution Streak"/>
+    <img src="https://streak-stats.demolab.com?user=anipalur&date_format=j%20M%5B%20Y%5D&mode=weekly" height="150" alt="Contribution Streak"/>
   </picture>
 </div>
 
