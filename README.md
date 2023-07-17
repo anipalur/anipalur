@@ -74,7 +74,7 @@ const aboutMe = {
 ## 📊 My Stats
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anipalur&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=onedark&hide_border=false&order=2" height="150" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anipalur&include_all_commits=true&show=reviews&show_icons=true&hide_rank=true&hide=contribs&theme=slateorange&bg_color=00000000&border_color=444c56" height="150" alt="GitHub Stats">
   <img width="5" />
   <img src="https://streak-stats.demolab.com?user=anipalur&locale=en&mode=weekly&theme=onedark&hide_border=false&border_radius=5&date_format=j M[ Y]&order=3" height="150" alt="Contribution Streak" />
 </div>
