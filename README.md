@@ -36,7 +36,7 @@ personalMotto: Weaknesses indicate strengths and strengths indicate weaknesses.
       The JavaScript logo (sourced from https://github.com/voodootikigod/logo.js)
       by Christopher Williams <chris@iterativedesigns.com>, 2011
       is licensed under the MIT License (https://spdx.org/licenses/MIT).
-      --->
+      -->
       <img src="https://cdn.simpleicons.org/javascript" height="40" align="center" alt="JavaScript Logo"/>
       <img width="10" />
       <img src="https://cdn.simpleicons.org/python" height="40" align="center" alt="Python Logo" />
@@ -62,7 +62,7 @@ personalMotto: Weaknesses indicate strengths and strengths indicate weaknesses.
       The GNU Bash logo (sourced from https://github.com/odb/official-bash-logo)
       by ol' dirty bashnerds, 2016
       is licensed under the MIT License (https://spdx.org/licenses/MIT).
-      --->
+      -->
       <img src="https://cdn.simpleicons.org/gnubash" height="40" align="center" alt="GNU Bash Logo" />
       <img width="10" />
       <img src="https://cdn.simpleicons.org/powershell" height="40" align="center" alt="PowerShell Logo" />
@@ -160,7 +160,7 @@ personalMotto: Weaknesses indicate strengths and strengths indicate weaknesses.
       <img width="10" />
       <img src="https://cdn.simpleicons.org/atom/000000/FFFFFF" height="40" align="center" alt="Atom Logo" />
       <img width="10" />
-      <!-- Copyright © 2023 JetBrains s.r.o. PyCharm and the PyCharm logo are registered trademarks of JetBrains s.r.o. --->
+      <!-- Copyright © 2023 JetBrains s.r.o. PyCharm and the PyCharm logo are registered trademarks of JetBrains s.r.o. -->
       <img src="https://cdn.simpleicons.org/pycharm/000000/FFFFFF" height="40" align="center" alt="PyCharm Logo" />
       <img width="10" />
       <img src="https://cdn.simpleicons.org/replit" height="40" align="center" alt="Replit Logo" />
