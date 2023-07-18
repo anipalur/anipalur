@@ -4,29 +4,25 @@
 
 ## 🧔 About Me
 
-```js
-const aboutMe = {
-  name: 'AP',
-  pronouns: 'He/Him',
-  status: 'First-year medical student',
-  fieldsOfInterest: [
-    'Bot development',
-    'Web development',
-    'Database management',
-    'DevOps',
-  ],
-  askMeAbout: 'Merging man and machine',
-  currentlyWorkingOn: 'A Discord bot',
-  currentlyLearningAbout: 'Maintaining a repo',
-  hobbies: [
-    'Geopolitics',
-    'Playing the piano',
-    'Space',
-    'Self-driving cars',
-    'Educating',
-  ],
-  personalMotto: 'Weaknesses indicate strengths and strengths indicate weaknesses',
-};
+```yaml
+name: AP
+pronouns: He/Him
+status: First-year medical student
+fieldsOfInterest:
+  - Bot development
+  - Web development
+  - Database management
+  - DevOps
+askMeAbout: Merging man and machine
+currentlyWorkingOn: A Discord bot
+currentlyLearningAbout: Maintaining a repo
+hobbies:
+  - Geopolitics
+  - Playing the piano
+  - Space
+  - Self-driving cars
+  - Educating
+personalMotto: Weaknesses indicate strengths and strengths indicate weaknesses.
 ```
 
 ## 👨‍💻 Languages and Tools I Use
@@ -104,5 +100,5 @@ const aboutMe = {
 <div align="left">
   <img src="https://cdn.simpleicons.org/discord/5865F2" height="20" align="center" alt="Discord Logo" /> <a href="https://discordapp.com/users/689680683186126865" title="View my Discord profile."><code>@anipalur</code></a>
   <img width="5" />
-  <img src="https://cdn.simpleicons.org/youtube/FF0000" height="20" align="center" alt="YouTube Logo" /> <a href="https://www.youtube.com/@anipalur" title="Visit my YouTube channel."><code>@anipalur</code></a>
+  <img src="https://cdn.simpleicons.org/youtube/FF0000" height="20" align="center" alt="YouTube Logo" /> <a href="https://youtube.com/@anipalur" title="Visit my YouTube channel."><code>@anipalur</code></a>
 </div>
