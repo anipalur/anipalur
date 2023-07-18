@@ -15,13 +15,13 @@ fieldsOfInterest:
   - DevOps
 askMeAbout: Merging man and machine
 currentlyWorkingOn: A Discord bot
-currentlyLearningAbout: Maintaining a repo
+currentlyLearningAbout: Hugo
 hobbies:
-  - Geopolitics
   - Playing the piano
-  - Space
-  - Self-driving cars
   - Educating
+  - Space
+  - Geopolitics
+  - Self-driving cars
 personalMotto: Weaknesses indicate strengths and strengths indicate weaknesses.
 ```
 
