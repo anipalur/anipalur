@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Config files for my GitHub profile.",
   "scripts": {
+    "is-linted": "npx markdownlint \"**/*.md\" --ignore node_modules",
     "lint": "npx markdownlint --fix \"**/*.md\" --ignore node_modules && echo Successfully linted all .md files!"
   },
   "repository": {
