@@ -25,19 +25,14 @@ hobbies:
 personalMotto: Weaknesses indicate strengths and strengths indicate weaknesses.
 ```
 
-## 👨‍💻 Languages and Tools I Use
+## 👨‍💻 Languages and Tools I've Used
 
 <table>
   <tr></tr>
   <tr>
     <td><br>Development<br><br></td>
     <td>
-      <!--
-      The JavaScript logo (sourced from https://github.com/voodootikigod/logo.js)
-      by Christopher Williams <chris@iterativedesigns.com>, 2011
-      is licensed under the MIT License (https://spdx.org/licenses/MIT).
-      -->
-      <img src="https://cdn.simpleicons.org/nodedotjs" height="40" align="center" alt="Node.js Logo"/>
+      <img src="https://cdn.simpleicons.org/nodedotjs" height="40" align="center" alt="Node.js Logo" />
       <img width="10" />
       <img src="https://cdn.simpleicons.org/python" height="40" align="center" alt="Python Logo" />
       <img width="10" />
@@ -207,7 +202,7 @@ personalMotto: Weaknesses indicate strengths and strengths indicate weaknesses.
       srcset="https://github-readme-stats.vercel.app/api?username=anipalur&include_all_commits=true&show=reviews&show_icons=true&hide_rank=true&hide=contribs&theme=swift&border_color=d0d7de"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=anipalur&include_all_commits=true&show=reviews&show_icons=true&hide_rank=true&hide=contribs" height="150" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=anipalur&include_all_commits=true&show=reviews&show_icons=true&hide_rank=true&hide=contribs" height="150" alt="GitHub Stats" />
   </picture>
   <img width="5" />
   <picture>
@@ -219,7 +214,7 @@ personalMotto: Weaknesses indicate strengths and strengths indicate weaknesses.
       srcset="https://streak-stats.demolab.com?user=anipalur&date_format=j%20M%5B%20Y%5D&mode=weekly&theme=swift&border=d0d7de"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://streak-stats.demolab.com?user=anipalur&date_format=j%20M%5B%20Y%5D&mode=weekly" height="150" alt="Contribution Streak"/>
+    <img src="https://streak-stats.demolab.com?user=anipalur&date_format=j%20M%5B%20Y%5D&mode=weekly" height="150" alt="Contribution Streak" />
   </picture>
 </div>
 
