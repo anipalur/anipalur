@@ -37,7 +37,7 @@ personalMotto: Weaknesses indicate strengths and strengths indicate weaknesses.
       by Christopher Williams <chris@iterativedesigns.com>, 2011
       is licensed under the MIT License (https://spdx.org/licenses/MIT).
       -->
-      <img src="https://cdn.simpleicons.org/javascript" height="40" align="center" alt="JavaScript Logo"/>
+      <img src="https://cdn.simpleicons.org/nodedotjs" height="40" align="center" alt="Node.js Logo"/>
       <img width="10" />
       <img src="https://cdn.simpleicons.org/python" height="40" align="center" alt="Python Logo" />
       <img width="10" />
