@@ -60,8 +60,6 @@ personalMotto: Weaknesses indicate strengths and strengths indicate weaknesses.
       -->
       <img src="https://cdn.simpleicons.org/gnubash" height="40" align="center" alt="GNU Bash Logo" title="GNU Bash" />
       <img width="10" />
-      <img src="https://cdn.simpleicons.org/powershell" height="40" align="center" alt="PowerShell Logo" title="PowerShell" />
-      <img width="10" />
       <img src="https://skillicons.dev/icons?i=regex" height="40" align="center" alt="RegEx Logo" title="RegEx" />
     </td>
   </tr>
