@@ -1,6 +1,16 @@
 <!-- markdownlint-disable first-line-heading -->
 
-![GitHub Header Image](./ap-github-header-image.png)
+<picture>
+  <source
+    srcset="./assets/header-image-dark.png"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="./assets/header-image-light.png"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="./assets/header-image-light.png" alt="Header Image" />
+</picture>
 
 ## 🧔 About Me
 
