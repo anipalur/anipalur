@@ -105,10 +105,6 @@ personalMotto: Weaknesses indicate strengths and strengths indicate weaknesses.
       -->
       <img src="https://cdn.simpleicons.org/letsencrypt" height="40" align="center" alt="Let's Encrypt Logo" title="Let's Encrypt" />
       <img width="10" />
-      <img src="https://cdn.simpleicons.org/filezilla" height="40" align="center" alt="FileZilla Logo" title="FileZilla" />
-      <img width="10" />
-      <img src="https://cdn.simpleicons.org/phpmyadmin" height="40" align="center" alt="phpMyAdmin Logo" title="phpMyAdmin" />
-      <img width="10" />
       <img src="https://cdn.simpleicons.org/pagespeedinsights" height="40" align="center" alt="PageSpeed Insights Logo" title="PageSpeed Insights" />
       <img width="10" />
       <img src="https://cdn.simpleicons.org/icons8" height="40" align="center" alt="Icons8 Logo" title="Icons8" />
