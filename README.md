@@ -142,7 +142,7 @@ personalMotto: Weaknesses indicate strengths and strengths indicate weaknesses.
       <img width="10" />
       <img src="https://cdn.simpleicons.org/mongoose" height="40" align="center" alt="Mongoose Logo" title="Mongoose" />
       <img width="10" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-plain.svg" height="40" align="center" alt="discord.js Logo" title="discord.js" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="40" align="center" alt="discord.js Logo" title="discord.js" />
       <img width="10" />
       <img src="https://cdn.simpleicons.org/eslint" height="40" align="center" alt="ESLint Logo" title="ESLint" />
       <img width="10" />
