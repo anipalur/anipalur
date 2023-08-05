@@ -24,7 +24,7 @@ fieldsOfInterest:
   - Database management
   - DevOps
 askMeAbout: Merging man and machine
-currentlyWorkingOn: A Discord bot
+currentlyWorkingOn: Personal website
 currentlyLearningAbout: Hugo
 hobbies:
   - Playing the piano
