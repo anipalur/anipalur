@@ -199,11 +199,11 @@ personalMotto: Weaknesses indicate strengths and strengths indicate weaknesses.
 <div align="left">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=anipalur&include_all_commits=true&show=reviews&show_icons=true&hide_rank=true&hide=contribs&disable_animations=true&theme=slateorange&border_color=444c56"
+      srcset="https://github-readme-stats.vercel.app/api?username=anipalur&include_all_commits=true&show=reviews&show_icons=true&hide_rank=true&hide=contribs&disable_animations=true&title_color=FD9346&text_color=CCCCCC&icon_color=FD9346&border_color=444C56&bg_color=262626"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=anipalur&include_all_commits=true&show=reviews&show_icons=true&hide_rank=true&hide=contribs&disable_animations=true&theme=swift&border_color=d0d7de"
+      srcset="https://github-readme-stats.vercel.app/api?username=anipalur&include_all_commits=true&show=reviews&show_icons=true&hide_rank=true&hide=contribs&disable_animations=true&title_color=FD9346&text_color=333333&icon_color=FD9346&border_color=D0D7DE&bg_color=F6F8FA"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img src="https://github-readme-stats.vercel.app/api?username=anipalur&include_all_commits=true&show=reviews&show_icons=true&hide_rank=true&hide=contribs&disable_animations=true" height="150" alt="GitHub Stats" title="GitHub Stats" />
@@ -211,11 +211,11 @@ personalMotto: Weaknesses indicate strengths and strengths indicate weaknesses.
   <img width="5" />
   <picture>
     <source
-      srcset="https://streak-stats.demolab.com?user=anipalur&date_format=j%20M%5B%20Y%5D&mode=weekly&disable_animations=true&theme=slateorange&border=444c56"
+      srcset="https://streak-stats.demolab.com?user=anipalur&date_format=j%20M%5B%20Y%5D&mode=weekly&disable_animations=true&background=262626&border=444C56&stroke=CCCCCC&ring=FD9346&fire=FD9346&currStreakNum=FD9346&sideNums=FD9346&currStreakLabel=FD9346&sideLabels=FD9346&dates=CCCCCC"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://streak-stats.demolab.com?user=anipalur&date_format=j%20M%5B%20Y%5D&mode=weekly&disable_animations=true&theme=swift&border=d0d7de"
+      srcset="https://streak-stats.demolab.com?user=anipalur&date_format=j%20M%5B%20Y%5D&mode=weekly&disable_animations=true&background=F6F8FA&border=D0D7DE&stroke=333333&ring=FD9346&fire=FD9346&currStreakNum=FD9346&sideNums=FD9346&currStreakLabel=FD9346&sideLabels=FD9346&dates=333333"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img src="https://streak-stats.demolab.com?user=anipalur&date_format=j%20M%5B%20Y%5D&mode=weekly&disable_animations=true" height="150" alt="Contribution Streak" title="Contribution Streak" />
