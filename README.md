@@ -218,7 +218,4 @@ personalMotto: Weaknesses indicate strengths and strengths indicate weaknesses.
 <div align="left">
   <img src="https://cdn.simpleicons.org/discord/5865F2" height="20" align="center" alt="Discord Logo" title="Discord" />
   <a href="https://discordapp.com/users/689680683186126865" title="View my Discord profile."><code>@anipalur</code></a>
-  <img width="5" />
-  <img src="https://cdn.simpleicons.org/youtube/FF0000" height="20" align="center" alt="YouTube Logo" title="YouTube" />
-  <a href="https://youtube.com/@anipalur" title="Visit my YouTube channel."><code>@anipalur</code></a>
 </div>
