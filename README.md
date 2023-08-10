@@ -63,13 +63,6 @@ personalMotto: Weaknesses indicate strengths and strengths indicate weaknesses.
       <img width="10" />
       <img src="https://cdn.simpleicons.org/latex" height="40" align="center" alt="LaTeX Logo" title="LaTeX" />
       <img width="10" />
-      <!--
-      The GNU Bash logo (sourced from https://github.com/odb/official-bash-logo)
-      by ol' dirty bashnerds, 2016
-      is licensed under the MIT License (https://spdx.org/licenses/MIT).
-      -->
-      <img src="https://cdn.simpleicons.org/gnubash" height="40" align="center" alt="GNU Bash Logo" title="GNU Bash" />
-      <img width="10" />
       <img src="https://skillicons.dev/icons?i=regex" height="40" align="center" alt="RegEx Logo" title="RegEx" />
     </td>
   </tr>
