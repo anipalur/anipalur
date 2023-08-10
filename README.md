@@ -162,8 +162,6 @@ personalMotto: Weaknesses indicate strengths and strengths indicate weaknesses.
       <img src="https://cdn.simpleicons.org/windows11" height="40" align="center" alt="Windows 11 Logo" title="Windows 11" />
       <img width="10" />
       <img src="https://cdn.simpleicons.org/android" height="40" align="center" alt="Android Logo" title="Android" />
-      <img width="10" />
-      <img src="https://cdn.simpleicons.org/windowsterminal/4D4D4D/FFFFFF" height="40" align="center" alt="Windows Terminal Logo" title="Windows Terminal" />
     </td>
   </tr>
   <tr></tr>
