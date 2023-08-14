@@ -216,9 +216,9 @@ personalMotto: Weaknesses indicate strengths and strengths indicate weaknesses.
 ## 💬 Social Media
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/discord/5865F2" height="20" align="center" alt="Discord Logo" title="Discord" />
-  <a href="https://discordapp.com/users/689680683186126865" title="View my Discord profile."><code>@anipalur</code></a>
-  <img width="5" />
   <img src="https://cdn.simpleicons.org/replit" height="20" align="center" alt="Replit Logo" title="Replit" />
   <a href="https://replit.com/@anipalur" title="View my Replit profile."><code>@anipalur</code></a>
+  <img width="5" />
+  <img src="https://cdn.simpleicons.org/discord/5865F2" height="20" align="center" alt="Discord Logo" title="Discord" />
+  <a href="https://discordapp.com/users/689680683186126865" title="View my Discord profile."><code>@anipalur</code></a>
 </div>
