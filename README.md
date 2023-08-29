@@ -28,7 +28,7 @@ currentlyWorkingOn: Personal website
 currentlyLearningAbout: Hugo
 hobbies:
   - Playing the piano
-  - Educating
+  - Teaching
   - Space
   - Geopolitics
   - Self-driving cars
