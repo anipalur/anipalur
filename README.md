@@ -12,7 +12,7 @@
   <img src="./assets/header-image-light.png" alt="Header Image" />
 </picture>
 
-## 🧔 About Me
+## About Me
 
 ```yaml
 name: AP
@@ -35,7 +35,7 @@ hobbies:
 personalMotto: Weaknesses indicate strengths and strengths indicate weaknesses.
 ```
 
-## 👨‍💻 Languages and Tools I've Used
+## Languages and Tools I've Used
 
 <table>
   <tr></tr>
@@ -185,7 +185,7 @@ personalMotto: Weaknesses indicate strengths and strengths indicate weaknesses.
   </tr>
 </table>
 
-## 📊 My Stats
+## My Stats
 
 <div align="left">
   <picture>
@@ -213,7 +213,7 @@ personalMotto: Weaknesses indicate strengths and strengths indicate weaknesses.
   </picture>
 </div>
 
-## 💬 Social Media
+## Social Media
 
 <div align="left">
   <img src="https://cdn.simpleicons.org/replit" height="20" align="center" alt="Replit" title="Replit" />
