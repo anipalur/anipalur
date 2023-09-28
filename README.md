@@ -74,9 +74,7 @@ personalMotto: Weaknesses indicate strengths and strengths indicate weaknesses.
       <img width="10" />
       <img src="https://cdn.simpleicons.org/css3" height="40" align="center" alt="CSS3" title="CSS3" />
       <img width="10" />
-      <img src="https://cdn.simpleicons.org/wordpress" height="40" align="center" alt="WordPress" title="WordPress" />
-      <img width="10" />
-      <img src="https://cdn.simpleicons.org/elementor" height="40" align="center" alt="Elementor" title="Elementor" />
+      <img src="https://cdn.simpleicons.org/hugo" height="40" align="center" alt="Hugo" title="Hugo" />
       <img width="10" />
       <!--
       The Jekyll (sourced from https://github.com/jekyll/brand)
@@ -84,6 +82,10 @@ personalMotto: Weaknesses indicate strengths and strengths indicate weaknesses.
       is licensed under the Creative Commons Attribution 4.0 International License (https://spdx.org/licenses/CC-BY-4.0).
       -->
       <img src="https://cdn.simpleicons.org/jekyll" height="40" align="center" alt="Jekyll" title="Jekyll" />
+      <img width="10" />
+      <img src="https://cdn.simpleicons.org/wordpress" height="40" align="center" alt="WordPress" title="WordPress" />
+      <img width="10" />
+      <img src="https://cdn.simpleicons.org/elementor" height="40" align="center" alt="Elementor" title="Elementor" />
       <img width="10" />
       <!--
       Cloudflare, the Cloudflare, and Cloudflare Workers are trademarks and/or registered trademarks
