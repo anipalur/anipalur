@@ -24,13 +24,12 @@ fieldsOfInterest:
   - Database management
   - DevOps
 askMeAbout: Merging man and machine
-currentlyWorkingOn: Personal website
+currentlyWorkingOn: My blog
 currentlyLearningAbout: Hugo
 hobbies:
   - Playing the piano
   - Teaching
   - Space
-  - Geopolitics
   - Self-driving cars
 personalMotto: Weaknesses indicate strengths and strengths indicate weaknesses.
 ```
