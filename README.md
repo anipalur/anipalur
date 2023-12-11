@@ -151,8 +151,6 @@ personalMotto: Weaknesses indicate strengths and strengths indicate weaknesses.
     <td>
       <img src="https://cdn.simpleicons.org/visualstudiocode" height="40" align="center" alt="Visual Studio Code" title="Visual Studio Code" />
       <img width="10" />
-      <img src="https://cdn.simpleicons.org/atom/000000/FFFFFF" height="40" align="center" alt="Atom" title="Atom" />
-      <img width="10" />
       <!-- Copyright © 2023 JetBrains s.r.o. PyCharm and the PyCharm are registered trademarks of JetBrains s.r.o. -->
       <img src="https://cdn.simpleicons.org/pycharm/000000/FFFFFF" height="40" align="center" alt="PyCharm" title="PyCharm" />
       <img width="10" />
@@ -175,7 +173,7 @@ personalMotto: Weaknesses indicate strengths and strengths indicate weaknesses.
       <img width="10" />
       <img src="https://cdn.simpleicons.org/mdnwebdocs/000000/FFFFFF" height="40" align="center" alt="MDN Web Docs" title="MDN Web Docs" />
       <img width="10" />
-      <img src="https://cdn.simpleicons.org/w3c" height="40" align="center" alt="W3C" title="W3C" />
+      <img src="https://cdn.simpleicons.org/w3schools" height="40" align="center" alt="W3schools" title="W3schools" />
       <img width="10" />
       <img src="https://cdn.simpleicons.org/geeksforgeeks" height="40" align="center" alt="GeeksforGeeks" title="GeeksforGeeks" />
       <img width="10" />
