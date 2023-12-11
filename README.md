@@ -1,4 +1,4 @@
-<!-- markdownlint-disable first-line-heading -->
+<!-- markdownlint-disable first-line-heading no-alt-text -->
 
 <picture>
   <source
