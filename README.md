@@ -12,7 +12,7 @@
   <img src="./assets/header-image-light.png" alt="Header Image" />
 </picture>
 
-## About Me
+## About
 
 ```yaml
 name: AP
@@ -34,7 +34,7 @@ hobbies:
 personalMotto: Weaknesses indicate strengths and strengths indicate weaknesses.
 ```
 
-## Languages and Tools I've Used
+## Languages and Tools
 
 <table>
   <tr></tr>
