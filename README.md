@@ -184,7 +184,7 @@ personalMotto: Weaknesses indicate strengths and strengths indicate weaknesses.
   </tr>
 </table>
 
-## My Stats
+## Stats
 
 <div align="left">
   <picture>
