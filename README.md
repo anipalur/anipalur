@@ -17,18 +17,18 @@
 ```yaml
 name: AP
 pronouns: He/Him
-status: First-year medical student
+status: Second-year medical student
 fieldsOfInterest:
-  - Bot development
   - Web development
-  - Database management
+  - Data science
   - DevOps
 askMeAbout: Merging man and machine
-currentlyWorkingOn: My blog
+currentlyWorkingOn: My website
 currentlyLearningAbout: Hugo
 hobbies:
   - Playing the piano
   - Teaching
+  - Robotics
   - Space
   - Self-driving cars
 personalMotto: Weaknesses indicate strengths and strengths indicate weaknesses.
