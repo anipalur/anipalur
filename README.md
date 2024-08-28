@@ -149,16 +149,12 @@ personalMotto: Weaknesses indicate strengths and strengths indicate weaknesses.
   <tr>
     <td><br>Environment<br><br></td>
     <td>
-      <img src="https://cdn.simpleicons.org/visualstudiocode" height="40" align="center" alt="Visual Studio Code" title="Visual Studio Code" />
-      <img width="10" />
       <!-- Copyright © 2023 JetBrains s.r.o. PyCharm and the PyCharm are registered trademarks of JetBrains s.r.o. -->
       <img src="https://cdn.simpleicons.org/pycharm/000000/FFFFFF" height="40" align="center" alt="PyCharm" title="PyCharm" />
       <img width="10" />
       <img src="https://cdn.simpleicons.org/replit" height="40" align="center" alt="Replit" title="Replit" />
       <img width="10" />
       <img src="https://cdn.simpleicons.org/notepadplusplus" height="40" align="center" alt="Notepad++" title="Notepad++" />
-      <img width="10" />
-      <img src="https://cdn.simpleicons.org/windows11" height="40" align="center" alt="Windows 11" title="Windows 11" />
       <img width="10" />
       <img src="https://cdn.simpleicons.org/android" height="40" align="center" alt="Android" title="Android" />
     </td>
