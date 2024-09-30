@@ -23,6 +23,6 @@
   "homepage": "https://github.com/anipalur/anipalur#readme",
   "devDependencies": {
     "markdownlint": "^0.34.0",
-    "markdownlint-cli": "^0.41.0"
+    "markdownlint-cli": "^0.42.0"
   }
 }
