@@ -71,7 +71,7 @@ personalMotto: Weaknesses indicate strengths and strengths indicate weaknesses.
     <td>
       <img src="https://cdn.simpleicons.org/html5" height="40" align="center" alt="HTML5" title="HTML5" />
       <img width="10" />
-      <img src="https://cdn.simpleicons.org/css3" height="40" align="center" alt="CSS3" title="CSS3" />
+      <img src="https://cdn.simpleicons.org/css" height="40" align="center" alt="CSS" title="CSS" />
       <img width="10" />
       <img src="https://cdn.simpleicons.org/hugo" height="40" align="center" alt="Hugo" title="Hugo" />
       <img width="10" />
