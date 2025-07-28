@@ -17,7 +17,7 @@
 ```yaml
 name: AP
 pronouns: He/Him
-status: Second-year medical student
+status: Third-year medical student
 fieldsOfInterest:
   - Web development
   - Data science
